@@ -8,7 +8,6 @@
 
 </template>
 
-
 <script>
 import BottomMenu from "@/components/BottomMenu";
 
