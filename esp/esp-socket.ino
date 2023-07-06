@@ -13,7 +13,6 @@
 ESP8266WiFiMulti WiFiMulti;
 SocketIOclient socketIO;
 
-
 int redLed = 16;  // red LED
 int pirPin = 5;   // PIR Out pin     D1
 int pirStat = 0;  // PIR status
