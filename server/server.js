@@ -64,7 +64,6 @@ io.on("connection", (socket) => {
     await MessageAdmin(`Detected Movement!`);
   });
 });
-
 server.listen(3000, async () => {
   console.log("listening on *:3000");
   await LoadSettings();
