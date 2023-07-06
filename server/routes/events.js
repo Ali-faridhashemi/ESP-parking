@@ -50,5 +50,4 @@ router.get("/", async (req, res) => {
     //res.status(500).send("Oops! some thing went wrong ¯\\_(ツ)_/¯");
   }
 });
-
 module.exports = router;
