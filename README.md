@@ -14,5 +14,5 @@ you may read the instructions for each codebase in their respective folders.
 
 ## Authors
 
-- Ali-faridhashemi [@Ali-faridhashemi](https://www.github.com/Ali-faridhashemi) (server and ESP)
+- Ali-faridhashemi [@Ali-faridhashemi](https://www.github.com/Ali-faridhashemi)
 
