@@ -56,5 +56,4 @@ pm2 start server.js
 ```
 
 ## Author
-
-- Armin Esmaeili [@armin-malek](https://www.github.com/armin-malek)
+- Ali-faridhashemi [@Ali-faridhashemi](https://www.github.com/Ali-faridhashemi)
