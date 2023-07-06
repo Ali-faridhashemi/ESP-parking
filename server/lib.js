@@ -109,7 +109,6 @@ function parseDateFull(date) {
   ctime = S(ctime).replaceAll(",", "/").s;
   return ctime;
 }
-
 module.exports.LoadSettings = LoadSettings;
 module.exports.isJson = isJson;
 module.exports.MessageAdmin = MessageAdmin;
