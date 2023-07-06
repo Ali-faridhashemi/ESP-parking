@@ -14,5 +14,5 @@ you may read the instructions for each codebase in their respective folders.
 
 ## Authors
 
-- Armin Esmaeili [@armin-malek](https://www.github.com/armin-malek) (server and ESP)
-- Hossein Asiyabi [@khoshtalab](https://github.com/khoshtalab) (web-ui)
+- Ali-faridhashemi [@Ali-faridhashemi](https://www.github.com/Ali-faridhashemi) (server and ESP)
+
