@@ -8,5 +8,4 @@ router.use("/settings", require("./settings"));
 router.get("/", (req, res) => {
   res.send("ok");
 });
-
 module.exports = router;
