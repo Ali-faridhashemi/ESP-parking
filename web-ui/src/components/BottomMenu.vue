@@ -15,7 +15,6 @@
         </a>
       </router-link>
 
-
     </ul>
   </footer>
 </template>
