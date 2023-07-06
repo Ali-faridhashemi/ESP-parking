@@ -6,7 +6,7 @@
 
       </div>
 
-
+      
     </header>
 
     <main class="main-wrap address2-page mb-xxl">
@@ -117,7 +117,6 @@ export default {
     this.handleLoadMore();
 
     //let vm = this
-
 
   },
 
