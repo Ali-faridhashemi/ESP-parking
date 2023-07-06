@@ -5,5 +5,4 @@ just compile it in Arduino IDE
 I know I know it's magical
 
 ## Author
-
-- Armin Esmaeili [@armin-malek](https://www.github.com/armin-malek)
+- Ali-faridhashemi [@Ali-faridhashemi](https://www.github.com/Ali-faridhashemi)
