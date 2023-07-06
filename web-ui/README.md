@@ -28,4 +28,4 @@ npm run lint
 
 ### Author
 
-Hossein Asiyabi [@khoshtalab](https://github.com/khoshtalab)
+- Ali-faridhashemi [@Ali-faridhashemi](https://www.github.com/Ali-faridhashemi)
