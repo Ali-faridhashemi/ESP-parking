@@ -9,3 +9,4 @@
 DATABASE_URL="postgresql://root:password@localhost:5432/esp" # database connection url
 TG_TOKEN="" # Telegram Bot token
 ADMIN_ID="" # your Numberic ID in telegram
+ADMIN_ID="" # your Numberic ID in telegram
